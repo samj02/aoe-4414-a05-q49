@@ -2,10 +2,6 @@
 #
 # Usage: python3 full_ops.py c_in n_wv.
 
-
-#  See "Fundamentals of Astrodynamics and Applications, Fourth Edition" by
-#  David A. Vallado, pages 172-173
-
 # Arguments:
 #c_in: input channel count
 #n_wv: number of weight vectors
